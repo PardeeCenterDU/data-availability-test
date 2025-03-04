@@ -1,5 +1,5 @@
 # Intro
-When rebasing IFs to a more current time point, it is desired to examine the gap in terms of data coverage across different base years. <br/><br/>
+When rebasing IFs to a more current time point, it is desired to examine the gap in terms of data coverage across different base years. In the script, please make sure you change the directory for it to point to your own IFHistSeries. Year range can be changed as well. <br/><br/>
 This short script provides such functionality that prints out data points available acorss all preprocessors. Example output- <br/><br/>
 2017 73234<br/>
 2018 70302<br/>
