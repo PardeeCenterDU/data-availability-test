@@ -17,3 +17,8 @@ UNESCO Institute for Statistics (UIS)                                           
 BGR; "Reserves, Resources and Availability of Energy Resources"Bundesanstalt für Geowissenschaften und Rohstoffe (BGR) in Hannover; Annual Report. Reserves, Resources and Availability of Energy Resources"     11<br/>
 FAO FishstatJ software, Global  Aquaculture Production Quantity data                                                                                                                                              9<br/>
 JMP WHO/UNICEF                                                                                                                                                                                                    8<br/>
+
+
+## 🙌 Credits
+Built by Yutang Xiong  
+Contact: [yutang.xiong@du.edu](mailto:yutang.xiong@du.edu)
